@@ -2,7 +2,7 @@
  
 # TV Marketing Sales Prediction
 
-Welcome to the TV Marketing Sales Prediction project! 🚀 In this project, I've built a simple neural network to predict sales based on TV marketing expenses.
+In this project, I've built a simple neural network to predict sales based on TV marketing expenses.
 
 ## Overview
 
